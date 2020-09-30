@@ -1,0 +1,11 @@
+{
+  "countries": "covidapi:countries",
+  "yesterday_countries": "covidapi:yesterday_countries",
+  "continents": "covidapi:continents",
+  "yesterday_continents": "covidapi:yesterday_continents",
+  "states": "covidapi:states",
+  "yesterday_states": "covidapi:yesterday_states",
+  "jhu_v2": "covidapi:jhu_v2",
+  "historical_v2": "covidapi:historical_v2",
+  "historical_v2_USA": "covidapi:historical_v2_USA"
+}
